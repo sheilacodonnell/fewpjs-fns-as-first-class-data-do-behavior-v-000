@@ -14,6 +14,9 @@ function greet(timeString){
     else if (timeHour >= 12) {
       return 'Good Afternoon'
     }
+    else if (timeHour > 5) {
+      return 'Good Evening'
+    }
   
   
 }
