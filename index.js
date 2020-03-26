@@ -9,7 +9,7 @@ function greet(timeString){
   let time = timeString.split(':')
   let timeHour = parseInt(time[0])
     if (timeHour < 12) {
-    return 'Good Morning'
+    return 'Good Morning';
   }
     elsif (timeHour >= 12) {
       return 'Good Afternoon'
