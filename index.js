@@ -17,7 +17,9 @@ function greet(timeString){
     else if (timeHour > 17) {
       return 'Good Evening'
     }
-  
+}
+
+function displayMessage(greet(timeString)){
   
 }
 /* End Given Code, don't edit above here...*/
