@@ -8,8 +8,8 @@ function handleClick(e) {
 function greet(timeString){
   time = timeString.split(':')
   timeHour = time.parseInt([0])
-  if timeHour > 12 {
-  return 'Good Morning'
+    if timeHour > 12 {
+    return 'Good Morning'
   }
   
   
