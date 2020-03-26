@@ -1,5 +1,3 @@
-/* Given Code, don't edit */
-
 function handleClick(e) {
   const timeString = document.getElementById('time').value
   displayMessage(greet(timeString))
@@ -22,7 +20,4 @@ function greet(timeString){
 function displayMessage(bestGreeting){
   document.getElementById('greeting').innerText = bestGreeting
 }
-/* End Given Code, don't edit above here...*/
 
-/* Write your implementation of greet() */
-/* Write your implementation of displayMessage() */
