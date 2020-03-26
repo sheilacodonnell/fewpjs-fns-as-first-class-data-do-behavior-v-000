@@ -20,7 +20,7 @@ function greet(timeString){
 }
 
 function displayMessage(bestGreeting){
-  
+  document.getElementById('greeting').innerText
 }
 /* End Given Code, don't edit above here...*/
 
