@@ -6,6 +6,8 @@ function handleClick(e) {
 }
 
 function greet(timeString){
+  time = timeString.split
+  if timeString
   
 }
 /* End Given Code, don't edit above here...*/
