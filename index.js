@@ -6,7 +6,8 @@ function handleClick(e) {
 }
 
 function greet(timeString){
-  time = timeString.split
+  time = timeString.split(':')
+  timeHour = time.parseInt([0])
   if timeString
   
 }
