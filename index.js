@@ -19,7 +19,7 @@ function greet(timeString){
     }
 }
 
-function displayMessage(greet(timeString)){
+function displayMessage(bestGreeting){
   
 }
 /* End Given Code, don't edit above here...*/
